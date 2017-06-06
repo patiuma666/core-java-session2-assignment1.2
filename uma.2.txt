@@ -1,0 +1,12 @@
+Difference Between Compiler and Interpreter
+
+*Compiler is a translator.
+*It converts the source code (source program) to object code(object program).
+*It coverts high level language to machine level language.
+*Compiler is a source code that checks all errors found in a program.
+*The compiler takes your .javafile and compiles it into a .classfile
+
+* An interpreter is a program that reads in as input a source program
+*And it  is a line by line execution of a program
+*The jvm takes your .classfile and interuptes it.
+*After compiling a program while execution it checks the errors in a byte code.
